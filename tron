@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /etc/tron_ssh
+python3 main.py
